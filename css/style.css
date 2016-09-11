@@ -1,10 +1,6 @@
 header {
   height: 100vh;
-<<<<<<< HEAD
-  background-image: url("photo-1454540723233-f0b9ff08b132.JPG");
-=======
   background-image: url("../bg.jpeg");
->>>>>>> master
   background-size: cover;
   background-position: center;
 /*  margin-bottom: 50px;*/
@@ -64,7 +60,6 @@ nav a {
 }
 
 p {
- 
   margin: 20px 50px 50px 20px;
   color: #555;
 }
